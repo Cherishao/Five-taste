@@ -26,7 +26,7 @@ The five flavours (sweet, sour, bitter, pungent, and salty)
 ```
 }
 
-### （2）爱玩 :play:
+### （2）爱玩:dart: 
 
  {   对于玩 随心随性就好 
 
