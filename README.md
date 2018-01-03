@@ -6,7 +6,7 @@ The five flavours (sweet, sour, bitter, pungent, and salty)
 
  {   吃货要有追求 吃货手则如下
 ```
-    1、健康 干净，卫生（环境 食物）
+    1、健康 对于路边摊应选择看起来干净整洁的 
 
     2、美味 当健康与美味冲突时 根据不干不净吃了没病原则 果断选择美味
 
